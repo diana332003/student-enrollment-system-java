@@ -1,17 +1,21 @@
 # Smart Student Course Enrollment System
 
-A Java-based system that allows management of students,
-courses, and enrollments using Object-Oriented Programming.
+A Java-based system that manages students, courses, and enrollments.
 
-Features:
-- Student Management
-- Course Management
-- Enrollment System
-- File Persistence
-- Search functionality
+## Features
+- Student management
+- Course management
+- Enrollment system
+- Search algorithms
+- Sorting algorithms
+- File persistence
 
-Technologies:
+## Technologies
 - Java
 - OOP
-- ArrayList
-- File Handling
+- Data Structures
+- CLI interface
+
+## Author
+Diana
+Computer Science Student
